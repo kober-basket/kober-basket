@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, welcome to my profile 👋
 - 🌱 I’m currently learning JAVA
 
 <!--
